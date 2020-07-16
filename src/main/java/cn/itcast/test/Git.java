@@ -9,7 +9,7 @@ public class Git {
         System.out.println("hello git");
         System.out.println("更新1");
         System.out.println("创建分支");
-        System.out.println("github创建");
+        System.out.println("github创建1");
     }
 }
 
